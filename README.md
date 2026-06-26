@@ -47,8 +47,6 @@ The historical calibration data is intentionally downloaded online:
 - EURIBOR 3M from the ECB Data API,
 - EUR/PLN from Yahoo Finance through `yfinance`.
 
-This keeps the project aligned with the original methodology, where CDS/curves were provided in the project file and historical EURIBOR/FX observations were obtained externally.
-
 ## Methodology
 
 ### 1. CDS bootstrapping
