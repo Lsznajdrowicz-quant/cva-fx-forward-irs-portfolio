@@ -9,7 +9,7 @@ The project estimates counterparty credit risk at both instrument and portfolio 
 
 ## Project objective
 
-The goal is to calculate **Credit Valuation Adjustment (CVA)** for a portfolio exposed to FX and interest-rate risk. The workflow follows the original academic project assumptions:
+The goal is to calculate **Credit Valuation Adjustment (CVA)** for a portfolio exposed to FX and interest-rate risk.
 
 - CDS spreads and market curves are loaded from `data/Market_data.xlsx`,
 - historical **EURIBOR 3M** data is downloaded from the **ECB Data API**,
